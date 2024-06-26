@@ -1,6 +1,8 @@
 # Todo App in React
 
-This is a simple implementation of a to-do list with CRUD functions
+This is a simple implementation of a to-do list with CRUD functions<br>
+Check out the live demo: <br>
+https://to-do-list-five-brown.vercel.app/<br>
 
 ## Table of Contents
 
